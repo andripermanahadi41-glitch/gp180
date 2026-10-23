@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "cat": 10,
+  "catname": "CAB",
+  "name": "CAB IR",
+  "category_label": "CAB IR",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Cut",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 19.0,
+    "max": 2000.0,
+    "step": 1.0,
+    "default": 19.0,
+    "unit_code": 0,
+    "type_code": 22
+   },
+   {
+    "name": "High Cut",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 2000.0,
+    "max": 20001.0,
+    "step": 1.0,
+    "default": 20001.0,
+    "unit_code": 0,
+    "type_code": 23
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5617992
+ }
+]

@@ -1,0 +1,1062 @@
+[
+ {
+  "id": 0,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Room",
+  "category_label": "Reverb",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 115
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5883168
+ },
+ {
+  "id": 1,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Hall",
+  "category_label": "Reverb",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 115
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5891480
+ },
+ {
+  "id": 2,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Church",
+  "category_label": "Reverb",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 115
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5899848
+ },
+ {
+  "id": 3,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Plate",
+  "category_label": "Reverb",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Decay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "High Damp",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5908216
+ },
+ {
+  "id": 4,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Spring",
+  "category_label": "Reverb",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Decay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5917584
+ },
+ {
+  "id": 6,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "N-Star",
+  "category_label": "Reverb",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Decay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5987116
+ },
+ {
+  "id": 7,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Deepsea",
+  "category_label": "Reverb",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Decay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5995440
+ },
+ {
+  "id": 8,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Sweet Space",
+  "category_label": "Reverb",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 115
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Lo End",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Hi End",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Trail",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 6003756
+ },
+ {
+  "id": 9,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Shimmer",
+  "category_label": "Reverb",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 115
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Lo End",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Hi End",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Trail",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 6013008
+ },
+ {
+  "id": 11,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Studio",
+  "category_label": "Reverb",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 136
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Damp",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Damp",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5949000
+ },
+ {
+  "id": 12,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Club",
+  "category_label": "Reverb",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 136
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Damp",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Damp",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5958388
+ },
+ {
+  "id": 13,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Concert",
+  "category_label": "Reverb",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 136
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Damp",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Damp",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5967804
+ },
+ {
+  "id": 14,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Arena",
+  "category_label": "Reverb",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 136
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Damp",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Damp",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5977520
+ },
+ {
+  "id": 17,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Amp Spring",
+  "category_label": "Reverb",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 136
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Damp",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Damp",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5937884
+ },
+ {
+  "id": 18,
+  "cat": 12,
+  "catname": "RVB",
+  "name": "Tube Spring",
+  "category_label": "Reverb",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 136
+   },
+   {
+    "name": "Decay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Damp",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Damp",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5926776
+ }
+]

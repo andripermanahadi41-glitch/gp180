@@ -1,0 +1,25 @@
+[
+ {
+  "id": 3,
+  "cat": 6,
+  "catname": "VOL",
+  "name": "Volume",
+  "category_label": "/",
+  "n_params": 1,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 6024516
+ }
+]

@@ -1,0 +1,1447 @@
+[
+ {
+  "id": 0,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "A-Chorus",
+  "category_label": "Chorus",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Tone",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5663192
+ },
+ {
+  "id": 1,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "G-Chorus",
+  "category_label": "Chorus",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5668468
+ },
+ {
+  "id": 2,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "C-Chorus",
+  "category_label": "Chorus",
+  "n_params": 1,
+  "params": [
+   {
+    "name": "Mode",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 3.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 127
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5673516
+ },
+ {
+  "id": 8,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "B-Chorus",
+  "category_label": "Chorus",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5677396
+ },
+ {
+  "id": 15,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "M-Chorus",
+  "category_label": "Chorus",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 22,
+    "type_code": 34
+   },
+   {
+    "name": "Filter",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Depth L",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Depth C",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Depth R",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5681072
+ },
+ {
+  "id": 17,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Jet",
+  "category_label": "Flanger",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 20,
+    "type_code": 34
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Feedback",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5685116
+ },
+ {
+  "id": 18,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "B-Jet",
+  "category_label": "Flanger",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 20,
+    "type_code": 34
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Feedback",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5687504
+ },
+ {
+  "id": 19,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "N-Jet",
+  "category_label": "Flanger",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 20,
+    "type_code": 34
+   },
+   {
+    "name": "Pre Delay",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Feedback",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5690376
+ },
+ {
+  "id": 20,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Trem Jet",
+  "category_label": "Flanger",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Flg Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Flg Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 21,
+    "type_code": 34
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trm Depth",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trm Rate",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 22,
+    "type_code": 34
+   },
+   {
+    "name": "Flg Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trm Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 36,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5692840
+ },
+ {
+  "id": 21,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "V-Roto",
+  "category_label": "Vibrato",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 18,
+    "type_code": 34
+   },
+   {
+    "name": "Sync",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5695888
+ },
+ {
+  "id": 22,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "G-Roto",
+  "category_label": "Vibrato",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5700212
+ },
+ {
+  "id": 23,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Vibrato",
+  "category_label": "Vibrato",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5705084
+ },
+ {
+  "id": 24,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Vibrato T",
+  "category_label": "Vibrato",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Sens",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Output",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5707240
+ },
+ {
+  "id": 25,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "O-Phase",
+  "category_label": "Phaser",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Rate",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 17,
+    "type_code": 34
+   },
+   {
+    "name": "Sync",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 32,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5709684
+ },
+ {
+  "id": 26,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "G-Phase",
+  "category_label": "Phaser",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 18,
+    "type_code": 34
+   },
+   {
+    "name": "Sync",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5712200
+ },
+ {
+  "id": 27,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "S-Phase",
+  "category_label": "Phaser",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Color",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 123
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 18,
+    "type_code": 34
+   },
+   {
+    "name": "Sync",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5715232
+ },
+ {
+  "id": 30,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Pan Phase",
+  "category_label": "Phaser",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Phs Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Phs Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 20,
+    "type_code": 34
+   },
+   {
+    "name": "Pan Depth",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pan Rate",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 21,
+    "type_code": 34
+   },
+   {
+    "name": "Phs Sync",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Pan Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 35,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5717944
+ },
+ {
+  "id": 31,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "M-Vibe",
+  "category_label": "Phaser",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 18,
+    "type_code": 34
+   },
+   {
+    "name": "Sync",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5721652
+ },
+ {
+  "id": 32,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Vibe",
+  "category_label": "Phaser",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 20,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 112
+   },
+   {
+    "name": "Sync",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5724548
+ },
+ {
+  "id": 33,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "O-Trem",
+  "category_label": "Tremolo",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 18,
+    "type_code": 34
+   },
+   {
+    "name": "Sync",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5727764
+ },
+ {
+  "id": 38,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Sine Trem",
+  "category_label": "Tremolo",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5729848
+ },
+ {
+  "id": 39,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Triangle Trem",
+  "category_label": "Tremolo",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5732308
+ },
+ {
+  "id": 40,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Bias Trem",
+  "category_label": "Tremolo",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 19,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Bias",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5735184
+ },
+ {
+  "id": 45,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Auto Swell",
+  "category_label": "Special",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Attack",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 80.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 1000.0,
+    "unit_code": 0,
+    "type_code": 150
+   },
+   {
+    "name": "Curve",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 151
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4371060
+ },
+ {
+  "id": 47,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Hold",
+  "category_label": "Special",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Activate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4372184
+ },
+ {
+  "id": 48,
+  "cat": 4,
+  "catname": "MOD",
+  "name": "Freeze",
+  "category_label": "Special",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Release",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Activate",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4374328
+ }
+]

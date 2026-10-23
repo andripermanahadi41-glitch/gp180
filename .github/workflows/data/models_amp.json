@@ -1,0 +1,4964 @@
+[
+ {
+  "id": 1,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Tweedy",
+  "category_label": "Clean",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 2,
+  "fw_offset": 4811560
+ },
+ {
+  "id": 3,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bellman 59N",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 22,
+  "fw_offset": 4817268
+ },
+ {
+  "id": 4,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dark Twin",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 35.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bright",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": 18,
+  "fw_offset": 4836040
+ },
+ {
+  "id": 5,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dark DLX",
+  "category_label": "Clean",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 11,
+  "fw_offset": 4844328
+ },
+ {
+  "id": 9,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dark Vibra",
+  "category_label": "Clean",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bright",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": 4,
+  "fw_offset": 4853236
+ },
+ {
+  "id": 13,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Silver Twin",
+  "category_label": "Clean",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 3,
+  "fw_offset": 4862092
+ },
+ {
+  "id": 15,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "SUPDual CL",
+  "category_label": "Clean",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 23,
+  "fw_offset": 4872484
+ },
+ {
+  "id": 16,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Foxy 15TB",
+  "category_label": "Clean",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone Cut",
+    "slot": 1,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 8,
+  "fw_offset": 4885580
+ },
+ {
+  "id": 17,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Foxy 30N",
+  "category_label": "Clean",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone Cut",
+    "slot": 1,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bright",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": 15,
+  "fw_offset": 4895108
+ },
+ {
+  "id": 20,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "J-120 CL",
+  "category_label": "Clean",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 2,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bright",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": 17,
+  "fw_offset": 4914596
+ },
+ {
+  "id": 21,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Match CL",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 35.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 16,
+  "fw_offset": 4919860
+ },
+ {
+  "id": 25,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "L-Star CL",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 25,
+  "fw_offset": 4942588
+ },
+ {
+  "id": 26,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "BogSV CL",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bright",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": 6,
+  "fw_offset": 4964444
+ },
+ {
+  "id": 27,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Z38 CL",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 35.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone Cut",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 41,
+  "fw_offset": 5028572
+ },
+ {
+  "id": 31,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Knights CL",
+  "category_label": "Clean",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 35.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 7,
+  "fw_offset": 5044468
+ },
+ {
+  "id": 34,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bad-KT CL",
+  "category_label": "Clean",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 35.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 7,
+  "fw_offset": 5071120
+ },
+ {
+  "id": 35,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Solo100 CL",
+  "category_label": "Clean",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 40,
+  "fw_offset": 5090336
+ },
+ {
+  "id": 36,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bellman 59B",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 35.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 22,
+  "fw_offset": 4826540
+ },
+ {
+  "id": 39,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Foxy 30TB",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone Cut",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Char",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 4
+   }
+  ],
+  "defcab": 15,
+  "fw_offset": 4904124
+ },
+ {
+  "id": 40,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "SUPDual OD",
+  "category_label": "Drive",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain 1",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone 1",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Gain 2",
+    "slot": 2,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone 2",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 4,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 23,
+  "fw_offset": 4878268
+ },
+ {
+  "id": 42,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 45",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 65.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 45.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 65.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 31,
+  "fw_offset": 5121292
+ },
+ {
+  "id": 43,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 45+",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 45.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 14,
+  "fw_offset": 5131660
+ },
+ {
+  "id": 44,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 45JP",
+  "category_label": "Drive",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Gain 1",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Gain 2",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 14,
+  "fw_offset": 5143336
+ },
+ {
+  "id": 45,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 50",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 33,
+  "fw_offset": 5155752
+ },
+ {
+  "id": 46,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 50+",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 33,
+  "fw_offset": 5166680
+ },
+ {
+  "id": 47,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 50JP",
+  "category_label": "Drive",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Gain 1",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Gain 2",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 33,
+  "fw_offset": 5178140
+ },
+ {
+  "id": 48,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK SLP",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 27,
+  "fw_offset": 5190396
+ },
+ {
+  "id": 53,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 800",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 34,
+  "fw_offset": 5200644
+ },
+ {
+  "id": 57,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess2C+ 1",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5269240
+ },
+ {
+  "id": 58,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess2C+ 2",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5280272
+ },
+ {
+  "id": 59,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess2C+ 3",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5291304
+ },
+ {
+  "id": 61,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "BogSV OD",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 6,
+  "fw_offset": 4974052
+ },
+ {
+  "id": 62,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Juice30 OD",
+  "category_label": "Drive",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 41,
+  "fw_offset": 5355164
+ },
+ {
+  "id": 64,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Flagman 1",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 32,
+  "fw_offset": 5217900
+ },
+ {
+  "id": 65,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Flagman 2",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 32,
+  "fw_offset": 5230508
+ },
+ {
+  "id": 67,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bog BlueV",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 37,
+  "fw_offset": 4984980
+ },
+ {
+  "id": 68,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bog BlueM",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 37,
+  "fw_offset": 4995404
+ },
+ {
+  "id": 71,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Solo100 OD",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 40,
+  "fw_offset": 5100656
+ },
+ {
+  "id": 72,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Match OD",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 24,
+  "fw_offset": 4931204
+ },
+ {
+  "id": 73,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Z38 OD",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone Cut",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 41,
+  "fw_offset": 5036100
+ },
+ {
+  "id": 74,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "L-Star OD",
+  "category_label": "Drive",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Input",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Gain",
+    "slot": 1,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 2,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 3,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 4,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 5,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 6,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 25,
+  "fw_offset": 4952532
+ },
+ {
+  "id": 75,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bad-KT OD",
+  "category_label": "Drive",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Edge",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 7,
+  "fw_offset": 5078816
+ },
+ {
+  "id": 78,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "UK 900",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 34,
+  "fw_offset": 5208624
+ },
+ {
+  "id": 83,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Juice R100",
+  "category_label": "Hi Gain",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 41,
+  "fw_offset": 5366004
+ },
+ {
+  "id": 85,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess4 LD",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5302640
+ },
+ {
+  "id": 86,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess4 LD 2",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5312740
+ },
+ {
+  "id": 87,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess4 LD 3",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5323220
+ },
+ {
+  "id": 89,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Solo100 LD",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 40,
+  "fw_offset": 5110420
+ },
+ {
+  "id": 90,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "EV 51",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 6,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 35,
+  "fw_offset": 5372564
+ },
+ {
+  "id": 93,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Flagman+ 1",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 32,
+  "fw_offset": 5243556
+ },
+ {
+  "id": 94,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Flagman+ 2",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 32,
+  "fw_offset": 5256168
+ },
+ {
+  "id": 95,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Eagle 120",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 38,
+  "fw_offset": 5383208
+ },
+ {
+  "id": 96,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Eagle 120+",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 38,
+  "fw_offset": 5392332
+ },
+ {
+  "id": 99,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Power LD",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 38,
+  "fw_offset": 5401424
+ },
+ {
+  "id": 101,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dizz VH",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 46,
+  "fw_offset": 5412196
+ },
+ {
+  "id": 102,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dizz VH S",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 46,
+  "fw_offset": 5423492
+ },
+ {
+  "id": 104,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess DualV",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5333716
+ },
+ {
+  "id": 105,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess DualM",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 36,
+  "fw_offset": 5344552
+ },
+ {
+  "id": 106,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dizz VH+",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 46,
+  "fw_offset": 5434180
+ },
+ {
+  "id": 107,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Dizz VH+ S",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 46,
+  "fw_offset": 5445420
+ },
+ {
+  "id": 109,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bog RedV",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 37,
+  "fw_offset": 5006572
+ },
+ {
+  "id": 110,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Bog RedM",
+  "category_label": "Hi Gain",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 1,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 4,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 37,
+  "fw_offset": 5017604
+ },
+ {
+  "id": 115,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Classic Bass",
+  "category_label": "Bass",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 2,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Midrange",
+    "slot": 3,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 4.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 16
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 5,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 59,
+  "fw_offset": 5456140
+ },
+ {
+  "id": 117,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Foxy Bass",
+  "category_label": "Bass",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 2,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 55,
+  "fw_offset": 5464716
+ },
+ {
+  "id": 119,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Mess Bass",
+  "category_label": "Bass",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 56,
+  "fw_offset": 5469324
+ },
+ {
+  "id": 123,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Knights CL+",
+  "category_label": "Clean",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 7,
+  "fw_offset": 5053356
+ },
+ {
+  "id": 124,
+  "cat": 7,
+  "catname": "AMP",
+  "name": "Knights OD",
+  "category_label": "Drive",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 7,
+  "fw_offset": 5062536
+ }
+]

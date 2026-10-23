@@ -1,0 +1,270 @@
+[
+ {
+  "id": 117,
+  "cat": 8,
+  "catname": "PREAMP",
+  "name": "Mini Bass",
+  "category_label": "Bass",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 2,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 53,
+  "fw_offset": 5478004
+ },
+ {
+  "id": 118,
+  "cat": 8,
+  "catname": "PREAMP",
+  "name": "Bass Pre",
+  "category_label": "Bass",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bright",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 52,
+  "fw_offset": 5482496
+ },
+ {
+  "id": 122,
+  "cat": 8,
+  "catname": "PREAMP",
+  "name": "AC Pre",
+  "category_label": "Acoustic",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Balance",
+    "slot": 2,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ Freq",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ Q",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ Gain",
+    "slot": 5,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 60,
+  "fw_offset": 5488320
+ },
+ {
+  "id": 123,
+  "cat": 8,
+  "catname": "PREAMP",
+  "name": "AC Pre 2",
+  "category_label": "Acoustic",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Volume",
+    "slot": 0,
+    "ui_order": 0,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 3,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Balance",
+    "slot": 2,
+    "ui_order": 2,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ Freq",
+    "slot": 3,
+    "ui_order": 4,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ Q",
+    "slot": 4,
+    "ui_order": 5,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ Gain",
+    "slot": 5,
+    "ui_order": 1,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": 61,
+  "fw_offset": 5496788
+ }
+]
