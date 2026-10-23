@@ -1,0 +1,642 @@
+[
+ {
+  "id": 0,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "COMP",
+  "category_label": "Comp",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Sustain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4192096
+ },
+ {
+  "id": 1,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "COMP4",
+  "category_label": "Comp",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Sustain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Clipping",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 10.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4195580
+ },
+ {
+  "id": 3,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "S-Comp",
+  "category_label": "Comp",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Threshold",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Ratio",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Release",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Blend",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4202140
+ },
+ {
+  "id": 10,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "AC Boost",
+  "category_label": "Boost",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 29.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4211600
+ },
+ {
+  "id": 11,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "B-Boost",
+  "category_label": "Boost",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4219940
+ },
+ {
+  "id": 12,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "P-Boost",
+  "category_label": "Boost",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4226708
+ },
+ {
+  "id": 14,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "14 Boost",
+  "category_label": "Boost",
+  "n_params": 1,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4231256
+ },
+ {
+  "id": 20,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "Micro Boost",
+  "category_label": "Boost",
+  "n_params": 1,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4207876
+ },
+ {
+  "id": 25,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "FAT BB",
+  "category_label": "Boost",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Bass",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Cut",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4233740
+ },
+ {
+  "id": 26,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "Boost",
+  "category_label": "Boost",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "+3dB",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 0
+   },
+   {
+    "name": "Bright",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4241252
+ },
+ {
+  "id": 27,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "Gate 1",
+  "category_label": "Gate",
+  "n_params": 1,
+  "params": [
+   {
+    "name": "Threshold",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5606812
+ },
+ {
+  "id": 29,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "Gate 2",
+  "category_label": "Gate",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Threshold",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Release",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5608076
+ },
+ {
+  "id": 33,
+  "cat": 0,
+  "catname": "PRE_NR",
+  "name": "Gate 3",
+  "category_label": "Gate",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Threshold",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Ratio",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 1.0,
+    "max": 500.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 191
+   },
+   {
+    "name": "Release",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 10.0,
+    "max": 10000.0,
+    "step": 1.0,
+    "default": 200.0,
+    "unit_code": 0,
+    "type_code": 191
+   },
+   {
+    "name": "Hold",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 0,
+    "type_code": 191
+   },
+   {
+    "name": "Hysteresis",
+    "slot": 5,
+    "ui_order": 255,
+    "min": -10.0,
+    "max": 0.0,
+    "step": 1.0,
+    "default": -3.0,
+    "unit_code": 0,
+    "type_code": 167
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5610312
+ }
+]

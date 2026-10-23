@@ -1,0 +1,714 @@
+{
+ "offset": 5254124,
+ "count": 101,
+ "copies_found": 2,
+ "items": [
+  {
+   "index": 0,
+   "name": "None",
+   "kind": "none",
+   "id": 1,
+   "tail_hex": "5a0101000000000f"
+  },
+  {
+   "index": 1,
+   "name": "Dark CL",
+   "kind": "factory",
+   "id": 2,
+   "tail_hex": "5a0202000100000f"
+  },
+  {
+   "index": 2,
+   "name": "Band CL",
+   "kind": "factory",
+   "id": 3,
+   "tail_hex": "5a0303000200000f"
+  },
+  {
+   "index": 3,
+   "name": "Match 35 CL",
+   "kind": "factory",
+   "id": 4,
+   "tail_hex": "5a0404000300000f"
+  },
+  {
+   "index": 4,
+   "name": "EV53 CH1",
+   "kind": "factory",
+   "id": 5,
+   "tail_hex": "5a0505000400000f"
+  },
+  {
+   "index": 5,
+   "name": "Mess JP2C CH1",
+   "kind": "factory",
+   "id": 6,
+   "tail_hex": "5a0606000500000f"
+  },
+  {
+   "index": 6,
+   "name": "ARC OD",
+   "kind": "factory",
+   "id": 7,
+   "tail_hex": "5a0707000600000f"
+  },
+  {
+   "index": 7,
+   "name": "Bad KT OD",
+   "kind": "factory",
+   "id": 8,
+   "tail_hex": "5a0808000700000f"
+  },
+  {
+   "index": 8,
+   "name": "Band OD",
+   "kind": "factory",
+   "id": 9,
+   "tail_hex": "5a0909000800000f"
+  },
+  {
+   "index": 9,
+   "name": "Boger OD",
+   "kind": "factory",
+   "id": 10,
+   "tail_hex": "5a0a0a000900000f"
+  },
+  {
+   "index": 10,
+   "name": "Dark OD",
+   "kind": "factory",
+   "id": 11,
+   "tail_hex": "5a0b0b000a00000f"
+  },
+  {
+   "index": 11,
+   "name": "EV53 CH2",
+   "kind": "factory",
+   "id": 12,
+   "tail_hex": "5a0c0c000b00000f"
+  },
+  {
+   "index": 12,
+   "name": "Hiway OD",
+   "kind": "factory",
+   "id": 13,
+   "tail_hex": "5a0d0d000c00000f"
+  },
+  {
+   "index": 13,
+   "name": "Match 35 OD",
+   "kind": "factory",
+   "id": 14,
+   "tail_hex": "5a0e0e000d00000f"
+  },
+  {
+   "index": 14,
+   "name": "Mess JP2C CH2",
+   "kind": "factory",
+   "id": 15,
+   "tail_hex": "5a0f0f000e00000f"
+  },
+  {
+   "index": 15,
+   "name": "ToneK OD",
+   "kind": "factory",
+   "id": 16,
+   "tail_hex": "5a1010000f00000f"
+  },
+  {
+   "index": 16,
+   "name": "UK Force",
+   "kind": "factory",
+   "id": 17,
+   "tail_hex": "5a1111001000000f"
+  },
+  {
+   "index": 17,
+   "name": "Boger LD",
+   "kind": "factory",
+   "id": 18,
+   "tail_hex": "5a1212001100000f"
+  },
+  {
+   "index": 18,
+   "name": "Eagle RB",
+   "kind": "factory",
+   "id": 19,
+   "tail_hex": "5a1313001200000f"
+  },
+  {
+   "index": 19,
+   "name": "Eagle Sava",
+   "kind": "factory",
+   "id": 20,
+   "tail_hex": "5a1414001300000f"
+  },
+  {
+   "index": 20,
+   "name": "Eagle SM",
+   "kind": "factory",
+   "id": 21,
+   "tail_hex": "5a1515001400000f"
+  },
+  {
+   "index": 21,
+   "name": "EV53 CH3",
+   "kind": "factory",
+   "id": 22,
+   "tail_hex": "5a1616001500000f"
+  },
+  {
+   "index": 22,
+   "name": "Flagman BE",
+   "kind": "factory",
+   "id": 23,
+   "tail_hex": "5a1717001600000f"
+  },
+  {
+   "index": 23,
+   "name": "H&K 40 LD",
+   "kind": "factory",
+   "id": 24,
+   "tail_hex": "5a1818001700000f"
+  },
+  {
+   "index": 24,
+   "name": "Mess JP2C CH3",
+   "kind": "factory",
+   "id": 25,
+   "tail_hex": "5a1919001800000f"
+  },
+  {
+   "index": 25,
+   "name": "Rev Green",
+   "kind": "factory",
+   "id": 26,
+   "tail_hex": "5a1a1a001900000f"
+  },
+  {
+   "index": 26,
+   "name": "Rev Purple",
+   "kind": "factory",
+   "id": 27,
+   "tail_hex": "5a1b1b001a00000f"
+  },
+  {
+   "index": 27,
+   "name": "Rev Red",
+   "kind": "factory",
+   "id": 28,
+   "tail_hex": "5a1c1c001b00000f"
+  },
+  {
+   "index": 28,
+   "name": "Victor Krak",
+   "kind": "factory",
+   "id": 29,
+   "tail_hex": "5a1d1d001c00000f"
+  },
+  {
+   "index": 29,
+   "name": "14 OD",
+   "kind": "factory",
+   "id": 30,
+   "tail_hex": "5a1e1e001d00000f"
+  },
+  {
+   "index": 30,
+   "name": "Force OCD",
+   "kind": "factory",
+   "id": 31,
+   "tail_hex": "5a1f1f001e00000f"
+  },
+  {
+   "index": 31,
+   "name": "Glass Bass Pre",
+   "kind": "factory",
+   "id": 32,
+   "tail_hex": "5a2020001f00000f"
+  },
+  {
+   "index": 32,
+   "name": "J-RAY OD",
+   "kind": "factory",
+   "id": 33,
+   "tail_hex": "5a2121002000000f"
+  },
+  {
+   "index": 33,
+   "name": "KOT OD",
+   "kind": "factory",
+   "id": 34,
+   "tail_hex": "5a2222002100000f"
+  },
+  {
+   "index": 34,
+   "name": "Mouse DST",
+   "kind": "factory",
+   "id": 35,
+   "tail_hex": "5a2323002200000f"
+  },
+  {
+   "index": 35,
+   "name": "Twin Rock JM",
+   "kind": "factory",
+   "id": 36,
+   "tail_hex": "5a2424002300000f"
+  },
+  {
+   "index": 36,
+   "name": "Dark DLX",
+   "kind": "factory",
+   "id": 37,
+   "tail_hex": "5a2525002400000f"
+  },
+  {
+   "index": 37,
+   "name": "Dark PRI",
+   "kind": "factory",
+   "id": 38,
+   "tail_hex": "5a2626002500000f"
+  },
+  {
+   "index": 38,
+   "name": "Foxy CL",
+   "kind": "factory",
+   "id": 39,
+   "tail_hex": "5a2727002600000f"
+  },
+  {
+   "index": 39,
+   "name": "Foxy OD",
+   "kind": "factory",
+   "id": 40,
+   "tail_hex": "5a2828002700000f"
+  },
+  {
+   "index": 40,
+   "name": "J-120 Bright",
+   "kind": "factory",
+   "id": 41,
+   "tail_hex": "5a2929002800000f"
+  },
+  {
+   "index": 41,
+   "name": "Juice Rock50",
+   "kind": "factory",
+   "id": 42,
+   "tail_hex": "5a2a2a002900000f"
+  },
+  {
+   "index": 42,
+   "name": "L-Star CH1",
+   "kind": "factory",
+   "id": 43,
+   "tail_hex": "5a2b2b002a00000f"
+  },
+  {
+   "index": 43,
+   "name": "L-Star CH2",
+   "kind": "factory",
+   "id": 44,
+   "tail_hex": "5a2c2c002b00000f"
+  },
+  {
+   "index": 44,
+   "name": "UK 900",
+   "kind": "factory",
+   "id": 45,
+   "tail_hex": "5a2d2d002c00000f"
+  },
+  {
+   "index": 45,
+   "name": "AMPG BASS",
+   "kind": "factory",
+   "id": 46,
+   "tail_hex": "5a2e2e002d00000f"
+  },
+  {
+   "index": 46,
+   "name": "AGUI BASS",
+   "kind": "factory",
+   "id": 47,
+   "tail_hex": "5a2f2f002e00000f"
+  },
+  {
+   "index": 47,
+   "name": "Hark BASS",
+   "kind": "factory",
+   "id": 48,
+   "tail_hex": "5a3030002f00000f"
+  },
+  {
+   "index": 48,
+   "name": "Hark OD BASS",
+   "kind": "factory",
+   "id": 49,
+   "tail_hex": "5a3131003000000f"
+  },
+  {
+   "index": 49,
+   "name": "MATT BASS",
+   "kind": "factory",
+   "id": 50,
+   "tail_hex": "5a3232003100000f"
+  },
+  {
+   "index": 50,
+   "name": "SBE BASS",
+   "kind": "factory",
+   "id": 51,
+   "tail_hex": "003333003200000f"
+  },
+  {
+   "index": 51,
+   "name": "Empty 1",
+   "kind": "user_slot",
+   "id": 52,
+   "tail_hex": "003434003300000f"
+  },
+  {
+   "index": 52,
+   "name": "Empty 2",
+   "kind": "user_slot",
+   "id": 53,
+   "tail_hex": "003535003400000f"
+  },
+  {
+   "index": 53,
+   "name": "Empty 3",
+   "kind": "user_slot",
+   "id": 54,
+   "tail_hex": "003636003500000f"
+  },
+  {
+   "index": 54,
+   "name": "Empty 4",
+   "kind": "user_slot",
+   "id": 55,
+   "tail_hex": "003737003600000f"
+  },
+  {
+   "index": 55,
+   "name": "Empty 5",
+   "kind": "user_slot",
+   "id": 56,
+   "tail_hex": "003838003700000f"
+  },
+  {
+   "index": 56,
+   "name": "Empty 6",
+   "kind": "user_slot",
+   "id": 57,
+   "tail_hex": "003939003800000f"
+  },
+  {
+   "index": 57,
+   "name": "Empty 7",
+   "kind": "user_slot",
+   "id": 58,
+   "tail_hex": "003a3a003900000f"
+  },
+  {
+   "index": 58,
+   "name": "Empty 8",
+   "kind": "user_slot",
+   "id": 59,
+   "tail_hex": "003b3b003a00000f"
+  },
+  {
+   "index": 59,
+   "name": "Empty 9",
+   "kind": "user_slot",
+   "id": 60,
+   "tail_hex": "003c3c003b00000f"
+  },
+  {
+   "index": 60,
+   "name": "Empty 10",
+   "kind": "user_slot",
+   "id": 61,
+   "tail_hex": "003d3d003c00000f"
+  },
+  {
+   "index": 61,
+   "name": "Empty 11",
+   "kind": "user_slot",
+   "id": 62,
+   "tail_hex": "003e3e003d00000f"
+  },
+  {
+   "index": 62,
+   "name": "Empty 12",
+   "kind": "user_slot",
+   "id": 63,
+   "tail_hex": "003f3f003e00000f"
+  },
+  {
+   "index": 63,
+   "name": "Empty 13",
+   "kind": "user_slot",
+   "id": 64,
+   "tail_hex": "004040003f00000f"
+  },
+  {
+   "index": 64,
+   "name": "Empty 14",
+   "kind": "user_slot",
+   "id": 65,
+   "tail_hex": "004141004000000f"
+  },
+  {
+   "index": 65,
+   "name": "Empty 15",
+   "kind": "user_slot",
+   "id": 66,
+   "tail_hex": "004242004100000f"
+  },
+  {
+   "index": 66,
+   "name": "Empty 16",
+   "kind": "user_slot",
+   "id": 67,
+   "tail_hex": "004343004200000f"
+  },
+  {
+   "index": 67,
+   "name": "Empty 17",
+   "kind": "user_slot",
+   "id": 68,
+   "tail_hex": "004444004300000f"
+  },
+  {
+   "index": 68,
+   "name": "Empty 18",
+   "kind": "user_slot",
+   "id": 69,
+   "tail_hex": "004545004400000f"
+  },
+  {
+   "index": 69,
+   "name": "Empty 19",
+   "kind": "user_slot",
+   "id": 70,
+   "tail_hex": "004646004500000f"
+  },
+  {
+   "index": 70,
+   "name": "Empty 20",
+   "kind": "user_slot",
+   "id": 71,
+   "tail_hex": "004747004600000f"
+  },
+  {
+   "index": 71,
+   "name": "Empty 21",
+   "kind": "user_slot",
+   "id": 72,
+   "tail_hex": "004848004700000f"
+  },
+  {
+   "index": 72,
+   "name": "Empty 22",
+   "kind": "user_slot",
+   "id": 73,
+   "tail_hex": "004949004800000f"
+  },
+  {
+   "index": 73,
+   "name": "Empty 23",
+   "kind": "user_slot",
+   "id": 74,
+   "tail_hex": "004a4a004900000f"
+  },
+  {
+   "index": 74,
+   "name": "Empty 24",
+   "kind": "user_slot",
+   "id": 75,
+   "tail_hex": "004b4b004a00000f"
+  },
+  {
+   "index": 75,
+   "name": "Empty 25",
+   "kind": "user_slot",
+   "id": 76,
+   "tail_hex": "004c4c004b00000f"
+  },
+  {
+   "index": 76,
+   "name": "Empty 26",
+   "kind": "user_slot",
+   "id": 77,
+   "tail_hex": "004d4d004c00000f"
+  },
+  {
+   "index": 77,
+   "name": "Empty 27",
+   "kind": "user_slot",
+   "id": 78,
+   "tail_hex": "004e4e004d00000f"
+  },
+  {
+   "index": 78,
+   "name": "Empty 28",
+   "kind": "user_slot",
+   "id": 79,
+   "tail_hex": "004f4f004e00000f"
+  },
+  {
+   "index": 79,
+   "name": "Empty 29",
+   "kind": "user_slot",
+   "id": 80,
+   "tail_hex": "005050004f00000f"
+  },
+  {
+   "index": 80,
+   "name": "Empty 30",
+   "kind": "user_slot",
+   "id": 81,
+   "tail_hex": "005151005000000f"
+  },
+  {
+   "index": 81,
+   "name": "Empty 31",
+   "kind": "user_slot",
+   "id": 82,
+   "tail_hex": "005252005100000f"
+  },
+  {
+   "index": 82,
+   "name": "Empty 32",
+   "kind": "user_slot",
+   "id": 83,
+   "tail_hex": "005353005200000f"
+  },
+  {
+   "index": 83,
+   "name": "Empty 33",
+   "kind": "user_slot",
+   "id": 84,
+   "tail_hex": "005454005300000f"
+  },
+  {
+   "index": 84,
+   "name": "Empty 34",
+   "kind": "user_slot",
+   "id": 85,
+   "tail_hex": "005555005400000f"
+  },
+  {
+   "index": 85,
+   "name": "Empty 35",
+   "kind": "user_slot",
+   "id": 86,
+   "tail_hex": "005656005500000f"
+  },
+  {
+   "index": 86,
+   "name": "Empty 36",
+   "kind": "user_slot",
+   "id": 87,
+   "tail_hex": "005757005600000f"
+  },
+  {
+   "index": 87,
+   "name": "Empty 37",
+   "kind": "user_slot",
+   "id": 88,
+   "tail_hex": "005858005700000f"
+  },
+  {
+   "index": 88,
+   "name": "Empty 38",
+   "kind": "user_slot",
+   "id": 89,
+   "tail_hex": "005959005800000f"
+  },
+  {
+   "index": 89,
+   "name": "Empty 39",
+   "kind": "user_slot",
+   "id": 90,
+   "tail_hex": "005a5a005900000f"
+  },
+  {
+   "index": 90,
+   "name": "Empty 40",
+   "kind": "user_slot",
+   "id": 91,
+   "tail_hex": "005b5b005a00000f"
+  },
+  {
+   "index": 91,
+   "name": "Empty 41",
+   "kind": "user_slot",
+   "id": 92,
+   "tail_hex": "005c5c005b00000f"
+  },
+  {
+   "index": 92,
+   "name": "Empty 42",
+   "kind": "user_slot",
+   "id": 93,
+   "tail_hex": "005d5d005c00000f"
+  },
+  {
+   "index": 93,
+   "name": "Empty 43",
+   "kind": "user_slot",
+   "id": 94,
+   "tail_hex": "005e5e005d00000f"
+  },
+  {
+   "index": 94,
+   "name": "Empty 44",
+   "kind": "user_slot",
+   "id": 95,
+   "tail_hex": "005f5f005e00000f"
+  },
+  {
+   "index": 95,
+   "name": "Empty 45",
+   "kind": "user_slot",
+   "id": 96,
+   "tail_hex": "006060005f00000f"
+  },
+  {
+   "index": 96,
+   "name": "Empty 46",
+   "kind": "user_slot",
+   "id": 97,
+   "tail_hex": "006161006000000f"
+  },
+  {
+   "index": 97,
+   "name": "Empty 47",
+   "kind": "user_slot",
+   "id": 98,
+   "tail_hex": "006262006100000f"
+  },
+  {
+   "index": 98,
+   "name": "Empty 48",
+   "kind": "user_slot",
+   "id": 99,
+   "tail_hex": "006363006200000f"
+  },
+  {
+   "index": 99,
+   "name": "Empty 49",
+   "kind": "user_slot",
+   "id": 100,
+   "tail_hex": "006464006300000f"
+  },
+  {
+   "index": 100,
+   "name": "Empty 50",
+   "kind": "user_slot",
+   "id": 255,
+   "tail_hex": "ffffffffffffffff"
+  }
+ ]
+}

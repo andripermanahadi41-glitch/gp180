@@ -1,0 +1,4254 @@
+[
+ {
+  "confidence": "low",
+  "fw_offset": 6041988,
+  "header_flag": 3,
+  "name": "COMP",
+  "label_guess": "Comp",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Sustain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6044832,
+  "header_flag": 4,
+  "name": "COMP4",
+  "label_guess": "Comp",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Sustain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Attack"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Clipping"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 10.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6070096,
+  "header_flag": 7,
+  "name": "OD 9",
+  "label_guess": "Gain",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "OD"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6080292,
+  "header_flag": 17,
+  "name": "OD",
+  "label_guess": "Penesas",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6105240,
+  "header_flag": 3,
+  "name": "Q",
+  "label_guess": "Mix",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Filter"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "T-Wah"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Sense"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Range"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 73,
+    "name": "Mode"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6107460,
+  "header_flag": 2,
+  "name": "Q",
+  "label_guess": "Low",
+  "n_params": 7,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Auto Filter"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 22,
+    "type_code": 34,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "High"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "A-Wah"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Sync"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6112116,
+  "header_flag": 3,
+  "name": "OCTA",
+  "label_guess": "Dry",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Low Oct"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "High Oct"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Pitch"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6123212,
+  "header_flag": 8,
+  "name": "Range",
+  "label_guess": "Harmony",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 5.0,
+    "step": 1.0,
+    "default": 2.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 133,
+    "name": "Hammy"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Position"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Pitch"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6131448,
+  "header_flag": 2,
+  "name": "Ring Mod",
+  "label_guess": "Mix",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Freq"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Special"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 94,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Fine"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6135140,
+  "header_flag": 5,
+  "name": "Volume",
+  "label_guess": "Mix",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "High Cut"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Saturation"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Special"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Saturate"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6149492,
+  "header_flag": 5,
+  "name": "H to S",
+  "label_guess": "Sim",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6154800,
+  "header_flag": 5,
+  "name": "S to H",
+  "label_guess": "Sim",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6168236,
+  "header_flag": 8,
+  "name": "Range",
+  "label_guess": "Harmony",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 5.0,
+    "step": 1.0,
+    "default": 2.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 133,
+    "name": "Hammy"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Position"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Pitch"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6183184,
+  "header_flag": 7,
+  "name": "OD 9",
+  "label_guess": "Gain",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "OD"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6193380,
+  "header_flag": 17,
+  "name": "OD",
+  "label_guess": "Penesas",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6224940,
+  "header_flag": 5,
+  "name": "OD",
+  "label_guess": "Gain",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mode"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 42,
+    "name": "Force"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6232540,
+  "header_flag": 5,
+  "name": "OD",
+  "label_guess": "Bass",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tube Clipper"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Treble"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6245384,
+  "header_flag": 17,
+  "name": "Volume",
+  "label_guess": "Fuzz",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Lazaro"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Sustain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6258268,
+  "header_flag": 10,
+  "name": "Plustortion",
+  "label_guess": "Distortion",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6262800,
+  "header_flag": 12,
+  "name": "Volume",
+  "label_guess": "SM Dist",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Distortion"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6268952,
+  "header_flag": 13,
+  "name": "Darktale",
+  "label_guess": "Filter",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Distortion"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6276632,
+  "header_flag": 7,
+  "name": "Treble",
+  "label_guess": "Bass",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Distortion"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Chief"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Middle"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6287424,
+  "header_flag": 6,
+  "name": "Volume",
+  "label_guess": "La Charger",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Distortion"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6293424,
+  "header_flag": 13,
+  "name": "Presence",
+  "label_guess": "Flagman Dist",
+  "n_params": 6,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tight"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Bass"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Distortion"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Treble"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6302004,
+  "header_flag": 8,
+  "name": "Flex OD",
+  "label_guess": "Gain",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Bass Drive"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 129,
+    "name": "Mode"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Blend"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6311292,
+  "header_flag": 10,
+  "name": "Bass OD",
+  "label_guess": "Bass",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Bass Drive"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Treble"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Blend"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6323248,
+  "header_flag": 13,
+  "name": "Hi-mid",
+  "label_guess": "Low",
+  "n_params": 8,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Black Bass"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Bass Preamp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Attack"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Treble"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 8,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Blend"
+   },
+   {
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 2.0,
+    "slot": 9,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 52,
+    "name": "Lo-mid"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6339368,
+  "header_flag": 12,
+  "name": "Treble",
+  "label_guess": "Bass",
+  "n_params": 7,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Master"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Bass Hammer"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mid Freq"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Bass Preamp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gain"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Drive"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Middle"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6973900,
+  "header_flag": 1,
+  "name": "Gate 1",
+  "label_guess": "Gate",
+  "n_params": 1,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Threshold"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6975164,
+  "header_flag": 1,
+  "name": "Gate 2",
+  "label_guess": "Attack",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gate"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Release"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Threshold"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6977400,
+  "header_flag": 1,
+  "name": "Gate 3",
+  "label_guess": "Ratio",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Attack"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Gate"
+   },
+   {
+    "min": 1.0,
+    "max": 500.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Release"
+   },
+   {
+    "min": 10.0,
+    "max": 10000.0,
+    "step": 1.0,
+    "default": 200.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Threshold"
+   },
+   {
+    "min": 0.0,
+    "max": 1000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Hold"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6996320,
+  "header_flag": 1,
+  "name": "Guitar EQ 1",
+  "label_guess": "1.6kHz",
+  "n_params": 6,
+  "params": [
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "4kHz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "125Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "800Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "400Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "EQ"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 6999480,
+  "header_flag": 1,
+  "name": "Guitar EQ 2",
+  "label_guess": "6kHz",
+  "n_params": 6,
+  "params": [
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "3kHz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "1kHz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "500Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "100Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "EQ"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7002984,
+  "header_flag": 1,
+  "name": "Bass EQ 1",
+  "label_guess": "8kHz",
+  "n_params": 6,
+  "params": [
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "2kHz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "33Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "150Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "600Hz"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "EQ"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7024492,
+  "header_flag": 3,
+  "name": "Sync",
+  "label_guess": "Pre Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Jet"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 20,
+    "type_code": 34,
+    "name": "Flanger"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Rate"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7026936,
+  "header_flag": 4,
+  "name": "Sync",
+  "label_guess": "Pre Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "B-Jet"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 20,
+    "type_code": 34,
+    "name": "Flanger"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Rate"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7029868,
+  "header_flag": 5,
+  "name": "Sync",
+  "label_guess": "V-Roto",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Vibrato"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 18,
+    "type_code": 34,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Rate"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7036428,
+  "header_flag": 4,
+  "name": "Sync",
+  "label_guess": "Phaser",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 17,
+    "type_code": 34,
+    "name": "Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 32,
+    "type_code": 0,
+    "name": "O-Phase"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7039032,
+  "header_flag": 12,
+  "name": "Sync",
+  "label_guess": "Phaser",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Depth"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 20,
+    "type_code": 34,
+    "name": "Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 112,
+    "name": "Mode"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Vibe"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7042640,
+  "header_flag": 3,
+  "name": "Sync",
+  "label_guess": "Tremolo",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "O-Trem"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 18,
+    "type_code": 34,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Rate"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7044728,
+  "header_flag": 2,
+  "name": "Sync",
+  "label_guess": "Tremolo",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Sine Trem"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 34,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7047192,
+  "header_flag": 4,
+  "name": "Sync",
+  "label_guess": "Tremolo",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Triangle Trem"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 34,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7050072,
+  "header_flag": 3,
+  "name": "Sync",
+  "label_guess": "Bias",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tremolo"
+   },
+   {
+    "min": 0.10000000149011612,
+    "max": 10.0,
+    "step": 0.10000000149011612,
+    "default": 0.5,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 34,
+    "name": "Bias Trem"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7056668,
+  "header_flag": 1,
+  "name": "Curve",
+  "label_guess": "Auto Swell",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 80.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 1000.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 150,
+    "name": "Special"
+   },
+   {
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 151,
+    "name": "Attack"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7057792,
+  "header_flag": 1,
+  "name": "Hold",
+  "label_guess": "Special",
+  "n_params": 2,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Activate"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7060004,
+  "header_flag": 35,
+  "name": "Freeze",
+  "label_guess": "Special",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Attack"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Activate"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Release"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Volume"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7097028,
+  "header_flag": 10,
+  "name": "Time R%",
+  "label_guess": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 22,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "Level"
+   },
+   {
+    "min": 1.0,
+    "max": 100.0,
+    "step": 0.10000000149011612,
+    "default": 61.79999923706055,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 30,
+    "name": "Feedback"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "Time"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Spread"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Sync"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 7,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "BBD Delay S"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7102072,
+  "header_flag": 6,
+  "name": "Time R%",
+  "label_guess": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 22,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "Level"
+   },
+   {
+    "min": 1.0,
+    "max": 100.0,
+    "step": 0.10000000149011612,
+    "default": 61.79999923706055,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 30,
+    "name": "Feedback"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "Time"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Spread"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Sync"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 7,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Digital Delay S"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7105636,
+  "header_flag": 2,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Pure"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7107500,
+  "header_flag": 8,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Tape"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7111076,
+  "header_flag": 3,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Ping Pong"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7114244,
+  "header_flag": 2,
+  "name": "Slapback",
+  "label_guess": "Delay",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 150.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 130,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7116672,
+  "header_flag": 7,
+  "name": "Time Sync",
+  "label_guess": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 22,
+    "type_code": 25,
+    "name": "Sweep Echo"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 21,
+    "type_code": 21,
+    "name": "Sweep Depth"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 36,
+    "type_code": 0,
+    "name": "Sweep Rate"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Time"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 7,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Sweep Sync"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7120596,
+  "header_flag": 6,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Dly Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 22,
+    "type_code": 25,
+    "name": "Ring Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Freq"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Ring Echo"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 7,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7125660,
+  "header_flag": 3,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Time"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Tube"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7128800,
+  "header_flag": 9,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 25,
+    "name": "Sweet Echo"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7135668,
+  "header_flag": 4,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 19,
+    "type_code": 25,
+    "name": "999 Echo"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7140296,
+  "header_flag": 6,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 21,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Vintage Rack"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Time"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Mod"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7145224,
+  "header_flag": 5,
+  "name": "Sync",
+  "label_guess": "Delay",
+  "n_params": 6,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 20,
+    "type_code": 25,
+    "name": "Rev Echo"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Level"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Feedback"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Time"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7147824,
+  "header_flag": 3,
+  "name": "Time A",
+  "label_guess": "Delay",
+  "n_params": 9,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Dual Echo"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 22,
+    "type_code": 25,
+    "name": "Trail"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "B Sync"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "A Sync"
+   },
+   {
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 23,
+    "type_code": 25,
+    "name": "Mix B"
+   },
+   {
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 29,
+    "name": "Feedback B"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 33,
+    "type_code": 0,
+    "name": "Time B"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 7,
+    "ui_order": 255,
+    "unit_code": 36,
+    "type_code": 0,
+    "name": "Mix A"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 8,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Feedback A"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7150916,
+  "header_flag": 7,
+  "name": "Room",
+  "label_guess": "Pre Delay",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 115,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7158640,
+  "header_flag": 7,
+  "name": "Hall",
+  "label_guess": "Pre Delay",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 115,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7166388,
+  "header_flag": 7,
+  "name": "Church",
+  "label_guess": "Pre Delay",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 115,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7174136,
+  "header_flag": 8,
+  "name": "Plate",
+  "label_guess": "Decay",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "High Damp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7182908,
+  "header_flag": 8,
+  "name": "Spring",
+  "label_guess": "Decay",
+  "n_params": 4,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tone"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7191488,
+  "header_flag": 22,
+  "name": "Reverb",
+  "label_guess": "Pre Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 136,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Low Damp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Hi Damp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Tube Spring"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Mod"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7201940,
+  "header_flag": 12,
+  "name": "Concert",
+  "label_guess": "Pre Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 100.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 136,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Low Damp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Hi Damp"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mod"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 6,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7210692,
+  "header_flag": 7,
+  "name": "Reverb",
+  "label_guess": "Decay",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "N-Star"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Trail"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7218404,
+  "header_flag": 7,
+  "name": "Deepsea",
+  "label_guess": "Decay",
+  "n_params": 3,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7226116,
+  "header_flag": 7,
+  "name": "Reverb",
+  "label_guess": "Pre Delay",
+  "n_params": 6,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 115,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Sweet Space"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Lo End"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Hi End"
+   }
+  ]
+ },
+ {
+  "confidence": "low",
+  "fw_offset": 7234764,
+  "header_flag": 14,
+  "name": "Shimmer",
+  "label_guess": "Pre Delay",
+  "n_params": 6,
+  "params": [
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "slot": 0,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Decay"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 1,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 115,
+    "name": "Mix"
+   },
+   {
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "slot": 2,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 21,
+    "name": "Trail"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 3,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Lo End"
+   },
+   {
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 4,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 93,
+    "name": "Hi End"
+   },
+   {
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "slot": 5,
+    "ui_order": 255,
+    "unit_code": 0,
+    "type_code": 0,
+    "name": "Reverb"
+   }
+  ]
+ }
+]

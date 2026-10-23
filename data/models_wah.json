@@ -1,0 +1,293 @@
+[
+ {
+  "id": 1,
+  "cat": 5,
+  "catname": "WAH",
+  "name": "V-Wah",
+  "category_label": "Wah",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Range",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Position",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4410800
+ },
+ {
+  "id": 6,
+  "cat": 5,
+  "catname": "WAH",
+  "name": "S-Wah",
+  "category_label": "Wah",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Range",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Position",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4419880
+ },
+ {
+  "id": 7,
+  "cat": 5,
+  "catname": "WAH",
+  "name": "B-Wah",
+  "category_label": "Wah",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Range",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Position",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4422228
+ },
+ {
+  "id": 8,
+  "cat": 5,
+  "catname": "WAH",
+  "name": "C-Wah",
+  "category_label": "Wah",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Range",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Position",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4413320
+ },
+ {
+  "id": 10,
+  "cat": 5,
+  "catname": "WAH",
+  "name": "P-Wah",
+  "category_label": "Wah",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Range",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Position",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "EQ",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4415836
+ }
+]

@@ -1,0 +1,14 @@
+{
+  "provider": "gemini",
+  "api_key_gemini": "AIza-REMPLACE-MOI",
+  "api_key_anthropic": "",
+  "api_key_openai": "",
+  "api_key_perplexity": "",
+  "model": "",
+  "web_search": true,
+  "max_searches": 3,
+  "max_tokens": 16000,
+  "budget_usd": 6.0,
+  "output_dir": "",
+  "max_retries": 2
+}

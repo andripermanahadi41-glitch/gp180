@@ -1,0 +1,1716 @@
+[
+ {
+  "id": 0,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Green OD",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4432964
+ },
+ {
+  "id": 1,
+  "cat": 3,
+  "catname": "DST",
+  "name": "OD 9",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4245660
+ },
+ {
+  "id": 2,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Yellow OD",
+  "category_label": "OD",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4251900
+ },
+ {
+  "id": 4,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Swarm",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4459820
+ },
+ {
+  "id": 6,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Super OD",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4266272
+ },
+ {
+  "id": 8,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Scream OD",
+  "category_label": "OD",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Fat",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   },
+   {
+    "name": "Air",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4474712
+ },
+ {
+  "id": 9,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Blues OD",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4273688
+ },
+ {
+  "id": 10,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Force",
+  "category_label": "OD",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 42
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4488364
+ },
+ {
+  "id": 11,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Tube",
+  "category_label": "OD",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4495264
+ },
+ {
+  "id": 14,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Blues Master",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4502144
+ },
+ {
+  "id": 15,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Master OD",
+  "category_label": "OD",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4508216
+ },
+ {
+  "id": 16,
+  "cat": 3,
+  "catname": "DST",
+  "name": "TaiChi OD",
+  "category_label": "OD",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Voice",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4520896
+ },
+ {
+  "id": 20,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Penesas",
+  "category_label": "OD",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4256512
+ },
+ {
+  "id": 28,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Precise OD",
+  "category_label": "OD",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 5.0,
+    "step": 1.0,
+    "default": 2.0,
+    "unit_code": 0,
+    "type_code": 47
+   },
+   {
+    "name": "Gate",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 10.0,
+    "unit_code": 0,
+    "type_code": 43
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4534452
+ },
+ {
+  "id": 30,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Timmy OD",
+  "category_label": "OD",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 6
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4526816
+ },
+ {
+  "id": 34,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Lazaro",
+  "category_label": "Fuzz",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Sustain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4554860
+ },
+ {
+  "id": 36,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Red Haze",
+  "category_label": "Fuzz",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Fuzz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4565136
+ },
+ {
+  "id": 38,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Sora Fuzz",
+  "category_label": "Fuzz",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Fuzz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4567728
+ },
+ {
+  "id": 41,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Plustortion",
+  "category_label": "Distortion",
+  "n_params": 2,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4570132
+ },
+ {
+  "id": 42,
+  "cat": 3,
+  "catname": "DST",
+  "name": "SM Dist",
+  "category_label": "Distortion",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4574656
+ },
+ {
+  "id": 43,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Darktale",
+  "category_label": "Distortion",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Filter",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4580324
+ },
+ {
+  "id": 45,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Chief",
+  "category_label": "Distortion",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4587784
+ },
+ {
+  "id": 46,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Master Dist",
+  "category_label": "Distortion",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Contour",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4596212
+ },
+ {
+  "id": 48,
+  "cat": 3,
+  "catname": "DST",
+  "name": "La Charger",
+  "category_label": "Distortion",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4607088
+ },
+ {
+  "id": 50,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Revolt",
+  "category_label": "Distortion",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 6
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4612668
+ },
+ {
+  "id": 63,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Flex OD",
+  "category_label": "Bass Drive",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 129
+   },
+   {
+    "name": "Blend",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4628344
+ },
+ {
+  "id": 64,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Bass OD",
+  "category_label": "Bass Drive",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Blend",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4637332
+ },
+ {
+  "id": 68,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Black Bass",
+  "category_label": "Bass Preamp",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Blend",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Lo-mid",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi-mid",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 8,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Attack",
+    "slot": 9,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 2.0,
+    "unit_code": 0,
+    "type_code": 52
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4645768
+ },
+ {
+  "id": 80,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Empire OD",
+  "category_label": "OD",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 1.0,
+    "max": 3.0,
+    "step": 1.0,
+    "default": 1.0,
+    "unit_code": 0,
+    "type_code": 48
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4546972
+ },
+ {
+  "id": 81,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Bass Hammer",
+  "category_label": "Bass Preamp",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Master",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Middle",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mid Freq",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Drive",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4658492
+ },
+ {
+  "id": 82,
+  "cat": 3,
+  "catname": "DST",
+  "name": "Flagman Dist",
+  "category_label": "Distortion",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Gain",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bass",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Treble",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Presence",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tight",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4620504
+ }
+]

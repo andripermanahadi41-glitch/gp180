@@ -1,0 +1,1431 @@
+[
+ {
+  "id": 0,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "AC Refiner",
+  "category_label": "Acoustic",
+  "n_params": 1,
+  "params": [
+   {
+    "name": "Shape",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4280800
+ },
+ {
+  "id": 1,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "AC Sim",
+  "category_label": "Acoustic",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Body",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Top",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 3.0,
+    "step": 1.0,
+    "default": 2.0,
+    "unit_code": 0,
+    "type_code": 69
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4290912
+ },
+ {
+  "id": 15,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "T-Wah",
+  "category_label": "Filter",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Sense",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Range",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mix",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 73
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4299584
+ },
+ {
+  "id": 21,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "A-WAH",
+  "category_label": "Auto Filter",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Depth",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.1,
+    "max": 10.0,
+    "step": 0.1,
+    "default": 0.5,
+    "unit_code": 22,
+    "type_code": 34
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 25.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Q",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 70.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "High",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 60.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4301804
+ },
+ {
+  "id": 25,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Step Filter",
+  "category_label": "Filter",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Step 1",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 10.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Step 2",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Step 3",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 55.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Step 4",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 85.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Rate",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 10.0,
+    "unit_code": 21,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 36,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4303756
+ },
+ {
+  "id": 33,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "OCTA",
+  "category_label": "Pitch",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Low Oct",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "High Oct",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Dry",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4306452
+ },
+ {
+  "id": 35,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Pitch",
+  "category_label": "Pitch",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Hi Pitch",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 24.0,
+    "step": 1.0,
+    "default": 12.0,
+    "unit_code": 0,
+    "type_code": 83
+   },
+   {
+    "name": "Low Pitch",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -24.0,
+    "max": 0.0,
+    "step": 1.0,
+    "default": -12.0,
+    "unit_code": 0,
+    "type_code": 131
+   },
+   {
+    "name": "Dry",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Vol",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Low Vol",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4310276
+ },
+ {
+  "id": 36,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "P-Bend",
+  "category_label": "Pitch",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Hi Pitch",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 12.0,
+    "unit_code": 0,
+    "type_code": 84
+   },
+   {
+    "name": "Low Pitch",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 0.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 85
+   },
+   {
+    "name": "Wet",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Dry",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Range",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4313960
+ },
+ {
+  "id": 41,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Detune",
+  "category_label": "Pitch",
+  "n_params": 3,
+  "params": [
+   {
+    "name": "Detune",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": -25.0,
+    "unit_code": 0,
+    "type_code": 88
+   },
+   {
+    "name": "Wet",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Dry",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5737936
+ },
+ {
+  "id": 46,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Bit Smash",
+  "category_label": "Special",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Krush",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bit",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Hi Cut",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Lo Cut",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5741748
+ },
+ {
+  "id": 47,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Ring Mod",
+  "category_label": "Special",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Freq",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Fine",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 94
+   },
+   {
+    "name": "Tone",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4361712
+ },
+ {
+  "id": 51,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Saturate",
+  "category_label": "Special",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Saturation",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mix",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "High Cut",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4365404
+ },
+ {
+  "id": 53,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Guitar EQ 1",
+  "category_label": "EQ",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "125Hz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "400Hz",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "800Hz",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "1.6kHz",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "4kHz",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Volume",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5631140
+ },
+ {
+  "id": 54,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Guitar EQ 2",
+  "category_label": "EQ",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "100Hz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "500Hz",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "1kHz",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "3kHz",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "6kHz",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Volume",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5635224
+ },
+ {
+  "id": 57,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Bass EQ 1",
+  "category_label": "EQ",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "33Hz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "150Hz",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "600Hz",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "2kHz",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "8kHz",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Volume",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5643172
+ },
+ {
+  "id": 58,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Bass EQ 2",
+  "category_label": "EQ",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "50Hz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "120Hz",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "400Hz",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "800Hz",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "4.5kHz",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "Volume",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5647252
+ },
+ {
+  "id": 60,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Mess EQ",
+  "category_label": "EQ",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "80Hz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "240Hz",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "750Hz",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "2.2kHz",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   },
+   {
+    "name": "6.6kHz",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -50.0,
+    "max": 50.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 93
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5651332
+ },
+ {
+  "id": 67,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Hyper EQ",
+  "category_label": "EQ",
+  "n_params": 11,
+  "params": [
+   {
+    "name": "31Hz",
+    "slot": 0,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "63Hz",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "125Hz",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "250Hz",
+    "slot": 3,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "500Hz",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "1kHz",
+    "slot": 5,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "2kHz",
+    "slot": 6,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "4kHz",
+    "slot": 7,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "8kHz",
+    "slot": 8,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "16kHz",
+    "slot": 9,
+    "ui_order": 255,
+    "min": -12.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 126
+   },
+   {
+    "name": "Volume",
+    "slot": 10,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5656952
+ },
+ {
+  "id": 73,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Hammy",
+  "category_label": "Pitch",
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Range",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 5.0,
+    "step": 1.0,
+    "default": 2.0,
+    "unit_code": 0,
+    "type_code": 133
+   },
+   {
+    "name": "Harmony",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   },
+   {
+    "name": "Volume",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Position",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 21
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4317548
+ },
+ {
+  "id": 77,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Harmonizer 1",
+  "category_label": "Pitch",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Key",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 11.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 90
+   },
+   {
+    "name": "Mode",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 7.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 155
+   },
+   {
+    "name": "Interval",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 13.0,
+    "step": 1.0,
+    "default": 8.0,
+    "unit_code": 0,
+    "type_code": 92
+   },
+   {
+    "name": "Smooth Mode",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4325760
+ },
+ {
+  "id": 78,
+  "cat": 1,
+  "catname": "EQ_PITCH",
+  "name": "Harmonizer 2",
+  "category_label": "Pitch",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Key",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 11.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 90
+   },
+   {
+    "name": "Mode",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 7.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 155
+   },
+   {
+    "name": "Interval 1",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 13.0,
+    "step": 1.0,
+    "default": 8.0,
+    "unit_code": 0,
+    "type_code": 92
+   },
+   {
+    "name": "Interval 2",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 13.0,
+    "step": 1.0,
+    "default": 10.0,
+    "unit_code": 0,
+    "type_code": 92
+   },
+   {
+    "name": "Smooth Mode",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 4343572
+ }
+]

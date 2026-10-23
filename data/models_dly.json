@@ -1,0 +1,1971 @@
+[
+ {
+  "id": 0,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Pure",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5814368
+ },
+ {
+  "id": 1,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Analog",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5816228
+ },
+ {
+  "id": 2,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Tape",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5818568
+ },
+ {
+  "id": 3,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Dual Echo",
+  "category_label": "Delay",
+  "n_params": 9,
+  "params": [
+   {
+    "name": "Mix A",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time A",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback A",
+    "slot": 1,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Mix B",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time B",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 23,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback B",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Sync A",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Sync B",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 36,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 8,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5867964
+ },
+ {
+  "id": 4,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Ping Pong",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5822096
+ },
+ {
+  "id": 5,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Slapback",
+  "category_label": null,
+  "n_params": 4,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 300.0,
+    "step": 1.0,
+    "default": 150.0,
+    "unit_code": 0,
+    "type_code": 130
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5825332
+ },
+ {
+  "id": 6,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Sweep Echo",
+  "category_label": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sweep Depth",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sweep Rate",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 21,
+    "type_code": 21
+   },
+   {
+    "name": "Sweep Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 36,
+    "type_code": 0
+   },
+   {
+    "name": "Time Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5827696
+ },
+ {
+  "id": 9,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Ring Echo",
+  "category_label": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Dly Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Ring Mix",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Freq",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5832288
+ },
+ {
+  "id": 11,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Tube",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5837360
+ },
+ {
+  "id": 12,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "M-Echo",
+  "category_label": "Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 21,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mode",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 1.0,
+    "max": 12.0,
+    "step": 1.0,
+    "default": 5.0,
+    "unit_code": 0,
+    "type_code": 26
+   },
+   {
+    "name": "Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5840456
+ },
+ {
+  "id": 13,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Sweet Echo",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5845392
+ },
+ {
+  "id": 18,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "999 Echo",
+  "category_label": "Delay",
+  "n_params": 5,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 19,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5850956
+ },
+ {
+  "id": 20,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Vintage Rack",
+  "category_label": "Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 21,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5855256
+ },
+ {
+  "id": 29,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "BBD Delay S",
+  "category_label": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Time R%",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 1.0,
+    "max": 100.0,
+    "step": 0.1,
+    "default": 61.8,
+    "unit_code": 0,
+    "type_code": 30
+   },
+   {
+    "name": "Spread",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Level",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5786220
+ },
+ {
+  "id": 31,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Digital Delay S",
+  "category_label": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Time R%",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 1.0,
+    "max": 100.0,
+    "step": 0.1,
+    "default": 61.8,
+    "unit_code": 0,
+    "type_code": 30
+   },
+   {
+    "name": "Spread",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Level",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5791008
+ },
+ {
+  "id": 33,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Tape Delay S",
+  "category_label": "Delay",
+  "n_params": 12,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 26,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Time R%",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 1.0,
+    "max": 100.0,
+    "step": 0.1,
+    "default": 61.8,
+    "unit_code": 0,
+    "type_code": 30
+   },
+   {
+    "name": "Spread",
+    "slot": 4,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 28
+   },
+   {
+    "name": "Wow &",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Age",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 31
+   },
+   {
+    "name": "Scrape",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Drive",
+    "slot": 8,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Level",
+    "slot": 9,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 10,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 11,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5794556
+ },
+ {
+  "id": 38,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Lofi Echo",
+  "category_label": "Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 21,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Crush",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Bit",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5860136
+ },
+ {
+  "id": 40,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Rev Echo",
+  "category_label": "Delay",
+  "n_params": 6,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 20,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Level",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5865276
+ },
+ {
+  "id": 42,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Ambience 1",
+  "category_label": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Level",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5803548
+ },
+ {
+  "id": 46,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Ambience 2",
+  "category_label": "Delay",
+  "n_params": 8,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 22,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Level",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 7,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5808792
+ },
+ {
+  "id": 50,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Broken Delay",
+  "category_label": "Delay",
+  "n_params": 7,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 4000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 21,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 20.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Latch",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Cut",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 100.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5880428
+ },
+ {
+  "id": 51,
+  "cat": 11,
+  "catname": "DLY",
+  "name": "Ice Delay",
+  "category_label": "Delay",
+  "n_params": 13,
+  "params": [
+   {
+    "name": "Mix",
+    "slot": 0,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Time",
+    "slot": 1,
+    "ui_order": 255,
+    "min": 20.0,
+    "max": 2000.0,
+    "step": 1.0,
+    "default": 500.0,
+    "unit_code": 27,
+    "type_code": 25
+   },
+   {
+    "name": "Feedback",
+    "slot": 2,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Tone",
+    "slot": 3,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Mod",
+    "slot": 4,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 30.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Pitch",
+    "slot": 5,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 28.0,
+    "step": 1.0,
+    "default": 28.0,
+    "unit_code": 0,
+    "type_code": 173
+   },
+   {
+    "name": "Slice",
+    "slot": 6,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 2.0,
+    "step": 1.0,
+    "default": 2.0,
+    "unit_code": 0,
+    "type_code": 175
+   },
+   {
+    "name": "Direction",
+    "slot": 7,
+    "ui_order": 255,
+    "min": -100.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": -100.0,
+    "unit_code": 0,
+    "type_code": 29
+   },
+   {
+    "name": "Blend",
+    "slot": 8,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 40.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Smooth",
+    "slot": 9,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Level",
+    "slot": 10,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 100.0,
+    "step": 1.0,
+    "default": 50.0,
+    "unit_code": 0,
+    "type_code": 21
+   },
+   {
+    "name": "Sync",
+    "slot": 11,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 33,
+    "type_code": 0
+   },
+   {
+    "name": "Trail",
+    "slot": 12,
+    "ui_order": 255,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 1.0,
+    "default": 0.0,
+    "unit_code": 0,
+    "type_code": 0
+   }
+  ],
+  "defcab": null,
+  "fw_offset": 5870556
+ }
+]
